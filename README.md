@@ -13,6 +13,4 @@ Export/import data from .txt files
 
 Display useful zoo information
 
-GUI-based with colorful, user-friendly buttons
-
-Ideal for practicing Python GUI programming and data handling.
+GUI-based with colorful, user-friendly buttons.
