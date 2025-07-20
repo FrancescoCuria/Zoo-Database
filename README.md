@@ -1,4 +1,4 @@
-Zoo Database Manager (Python + Tkinter)
+Zoo Database Manager (Python + Tkinter)  
 A simple Zoo Management System with a graphical interface built using Python and Tkinter. It allows you to manage animals and organize zoo data efficiently.
 
 Features:
