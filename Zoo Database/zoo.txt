@@ -1,0 +1,10 @@
+Leone;Alex;True;4;Terra;Ruggito;7;A1
+Giraffa;Melman;True;4;Terra;Mugugno;65;A1
+Ippopotamo;Gloria;True;4;Terra Acqua;Ruggito;34;A1
+Pinguino;Skipper;True;2;Terra Acqua;Garrito;False;A2
+Pinguino;Kowalski;True;2;Terra Acqua;Garrito;False;A2
+Pinguino;Rico;True;2;Terra Acqua;Garrito;False;A2
+Pinguino;Soldato;True;2;Terra Acqua;Garrito;False;A2
+PescePagliaccio;Flounder;False;0;Acqua;None;Salata;A3
+PescePagliaccio;Nemo;False;0;Acqua;None;Salata;A3
+Gufo;Anacleto;True;2;Aria;Bubbolio;True;B2
